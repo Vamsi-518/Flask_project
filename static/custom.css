@@ -1,0 +1,19 @@
+body {
+    background-color: chartreuse;
+}
+
+.container {
+    background: white;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    background-color: #f4f4f4
+}
+
+button:hover {
+    background: #0056b3;
+}
